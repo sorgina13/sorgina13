@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sorgina13
 - 👀 I’m interested in science, human progress and AI
 - 🌱 I’m currently focused on NLP, GenAI systems with RAC architectures
-- 💞️ I’m looking to collaborate on agent projects with LLMs
+- 💞️ I’m looking to collaborate on agent and RAC projects with LLMs
 - 📫 How to reach me sorgina.13@gmail.com
 
 <!---
